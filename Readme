@@ -1,0 +1,10 @@
+Readme programa orbitas de los planetas
+
+1. Descargar la carpeta de repositorio de orbitas de los planetas
+2. Para poder ejecutar el codigo, se debe abrir el terminal de la carpeta
+3. Se ejecuta el archivo Makefile. En el terminal: Make all
+4. Se ejecuta la aplicacion de prueba. En el terminal: python3 tierra_prueba.py
+
+Los resultados que se obtienen del aplicativo equivalen a los tiempos que se tarda
+en calcular la orbita del planeta ingresado, en el que se realiza una comparativa
+entre el lenguaje de python contra el lenguaje de Cython.
